@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://flytkins.github.io/test-pages2/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+theme = 'ananke'
